@@ -1,0 +1,6 @@
+openai
+streamlit
+textblob
+pandas
+matplotlib
+plotly
